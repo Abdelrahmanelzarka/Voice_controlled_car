@@ -1,0 +1,10 @@
+{
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "python.analysis.extraPaths": [
+        "./pybluez"
+    ],
+    "cSpell.words": [
+        "RFCOMM"
+    ]
+}
