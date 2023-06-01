@@ -1,6 +1,6 @@
 ﻿# Voice_controlled_car
 
-## Hardware-components
+### Hardware-components
 ### A small car kit with two large wheels and one free wheel - Arduino UNO - a small breadboard - HC05 bluetooth module - 2 ultrasonic sensor modules - MPU6050 Gyro accelerator sensor - H-bridge motor driver 
 
 We controlled a car by speaking into microphone and say some commands like "Forward", "Backward", "Left", "Right", "Stop"
