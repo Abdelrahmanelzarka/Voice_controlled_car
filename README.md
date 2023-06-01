@@ -4,9 +4,13 @@
 ### A small car kit with two large wheels and one free wheel - Arduino UNO - a small breadboard - HC05 Bluetooth module - 2 ultrasonic sensor modules - MPU6050 Gyro accelerator sensor - H-bridge motor driver 
 ********************
 We controlled the car by speaking into a microphone and saying some commands like "Forward", "Backward", "Left", "Right", "Stop"
+
 We used **Speech_recongintion_model** which is connecting to **Google API** to understand what we say and print it on a laptop "speech to text"
+
 After that, we send a signal to **"HC-05" Bluetooth module** connected to **Arduino UNO and H-bridge motor driver** to control the speed of the wheels.
+
 also, we used **two ultra-sonic sensor modules** to measure the distances (front and behind) of the car to make it slow down the speed at distance < 80 and stop at distance <20
+
 we also use an **MPU6050 Gyro-accelerator sensor** to measure the angle of speed and detect if the car rotates left or right which helps us to develop a **PID algorithm** to make the car correct itself and go forward smoothly.
 *****************************
 ## How to test code
