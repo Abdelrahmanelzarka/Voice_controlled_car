@@ -11,8 +11,13 @@ we also use an **MPU6050 Gyro-accelerator sensor** to measure the angle of speed
 *****************************
 ## How to test code
 1- clone this repo into your machine
+
 2- Make sure to connect wires to thier corresponding pins at Arduino
+
 3- upload Arduino code to the Arduino
+
 4- make sure to install speech_recognition and pybluez with VS code and to download wire and software serial library with Arduino
+
 5- run the program.py code on your machine and make sure the connection of HC05 is right to make it discoverable on laptop
+
 6- after connecting with laptop try to say some commands and enjoy your car being your  **obedient_robot**
