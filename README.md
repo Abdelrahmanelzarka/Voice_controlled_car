@@ -1,7 +1,7 @@
 ﻿# Voice_controlled_car
 
 ### Hardware-components
-### A small car kit with two large wheels and one free wheel - Arduino UNO - a small breadboard - HC05 Bluetooth module - 2 ultrasonic sensor modules - MPU6050 Gyro accelerator sensor - H-bridge motor driver 
+### ( A small car kit with two large wheels and one free wheel - Arduino UNO - a small breadboard - HC05 Bluetooth module - 2 ultrasonic sensor modules - MPU6050 Gyro accelerator sensor - H-bridge motor driver ) 
 ********************
 We controlled the car by speaking into a microphone and saying some commands like "Forward", "Backward", "Left", "Right", "Stop"
 
@@ -25,3 +25,6 @@ we also use an **MPU6050 Gyro-accelerator sensor** to measure the angle of speed
 5- Run the program.py code on your machine and make sure the connection of HC05 is right to make it discoverable on laptop
 
 6- After connecting with laptop try to say some commands and enjoy your car being your  **obedient_robot**
+
+
+# Watch the trial video here : https://www.linkedin.com/posts/abdelrahman-elzarka-software-engineer_github-project-technology-activity-7070367502941233153-amHx?utm_source=share&utm_medium=member_desktop
