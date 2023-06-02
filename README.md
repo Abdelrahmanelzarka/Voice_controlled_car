@@ -27,4 +27,5 @@ we also use an **MPU6050 Gyro-accelerator sensor** to measure the angle of speed
 6- After connecting with laptop try to say some commands and enjoy your car being your  **obedient_robot**
 
 
-# Watch the trial video here : https://www.linkedin.com/posts/abdelrahman-elzarka-software-engineer_github-project-technology-activity-7070367502941233153-amHx?utm_source=share&utm_medium=member_desktop
+### Watch the trial video here : 
+https://www.linkedin.com/posts/abdelrahman-elzarka-software-engineer_github-project-technology-activity-7070367502941233153-amHx?utm_source=share&utm_medium=member_desktop
