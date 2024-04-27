@@ -1,4 +1,4 @@
-﻿# Voice_controlled_car
+﻿# Voice_controlled_car  
 
 ### Hardware-components
 ### ( A small car kit with two large wheels and one free wheel - Arduino UNO - a small breadboard - HC05 Bluetooth module - 2 ultrasonic sensor modules - MPU6050 Gyro accelerator sensor - H-bridge motor driver ) 
